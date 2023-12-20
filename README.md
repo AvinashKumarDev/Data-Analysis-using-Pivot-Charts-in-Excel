@@ -4,6 +4,6 @@ drive sales growth in 2023. This involved cleaning, manipulating, validating, an
 processing the data, along with pivot charts and graphs, ultimately yielding valuable
 insights.
 
-RESULT(Insights):
+**RESULT(Insights):**
 Target **Women** customers of age group (**30-50 yrs**) living in **Maharashtra, Karnataka and
 Uttar Pradesh** by showing ads/offers/ coupons available on **Amazon, Flipkart and Myntra**.
